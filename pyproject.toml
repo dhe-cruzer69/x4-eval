@@ -1,0 +1,10 @@
+[project]
+name = "x4-eval"
+version = "0.0.1"
+description = "X4 eval — evaluation runner, evaluator, reporter"
+requires-python = ">=3.11"
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
